@@ -8,6 +8,9 @@ public class ABprint {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        System.out.println(a + b);
+        if (-100000 <= a &&b <= 100000){
+            System.out.println("a = " + a);
+            System.out.println("b = " + b);
+        }
     }
 }
