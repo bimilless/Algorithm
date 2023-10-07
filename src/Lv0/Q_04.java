@@ -9,13 +9,13 @@ public class Q_04 {
         String result = "";
 
         for (int i =0; i<a.length(); i++) {
-            char x = a.charAt(i);
-            if (Character.isLowerCase(x)) {
-                result += Character.isUpperCase(x);
+            char c = a.charAt(i);
+            if (Character.isUpperCase(c)) {
+                result += Character.toLowerCase(c);
             } else {
-                result += Character.isLowerCase(x);
+                result += Character.toUpperCase(c);
             }
-
+        }
             System.out.println(result);
         }
-    }}
+    }
