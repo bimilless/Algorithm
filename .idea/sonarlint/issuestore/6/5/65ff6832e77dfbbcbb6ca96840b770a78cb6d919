@@ -1,0 +1,32 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïõîä8¤ÿúÛ´1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜°–ûÿÿÿÿ8¥ÿúÛ´1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘8±ÿúÛ´1
+v
+java:S2159)"ZRemove this call to "equals"; comparisons between an array and a type always return false.(„™¤i8²ÿúÛ´1
+n
+java:S1871,"LThis branch's code block is the same as the block for the branch on line 42.(ÔÊöîşÿÿÿÿ8–×ŒÜ´1
+|
+java:S2159*"ZRemove this call to "equals"; comparisons between an array and a type always return false.(˜İô„üÿÿÿÿ8³ÿúÛ´1
+L	java:S106+"+Replace this use of System.out by a logger.(šĞ›çûÿÿÿÿ8³ÿúÛ´1
+|
+java:S2159,"ZRemove this call to "equals"; comparisons between an array and a type always return false.(ÔÊöîşÿÿÿÿ8³ÿúÛ´1
+L	java:S106-"+Replace this use of System.out by a logger.(šĞ›çûÿÿÿÿ8´ÿúÛ´1
+v
+java:S21590"ZRemove this call to "equals"; comparisons between an array and a type always return false.(ºÏÙ8´ÿúÛ´1
+n
+java:S18713"LThis branch's code block is the same as the block for the branch on line 49.(ÔÊöîşÿÿÿÿ8æöŒÜ´1
+|
+java:S21591"ZRemove this call to "equals"; comparisons between an array and a type always return false.(˜İô„üÿÿÿÿ8´ÿúÛ´1
+G	java:S1062"+Replace this use of System.out by a logger.(à­Âç8´ÿúÛ´1
+|
+java:S21593"ZRemove this call to "equals"; comparisons between an array and a type always return false.(ÔÊöîşÿÿÿÿ8´ÿúÛ´1
+G	java:S1064"+Replace this use of System.out by a logger.(à­Âç8´ÿúÛ´1
+G	java:S1067"+Replace this use of System.out by a logger.(ô¤„å8ïåûÛ´1
+t
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(™ÃÜÎşÿÿÿÿ8Ä¸Ü´1
+n
+java:S1871A"LThis branch's code block is the same as the block for the branch on line 63.(ÔÊöîşÿÿÿÿ8Æ¸Ü´1
+n
+java:S1871H"LThis branch's code block is the same as the block for the branch on line 70.(ÔÊöîşÿÿÿÿ8Æ¸Ü´1
