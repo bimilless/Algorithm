@@ -7,3 +7,7 @@ A
 src/Lv0/Q_18.java,0\b\0b0b269b62aad52e47b88d3caa24d001e93a97e3
 A
 src/Lv0/Q_19.java,6\5\65ff6832e77dfbbcbb6ca96840b770a78cb6d919
+A
+src/Lv0/Q_20.java,a\8\a8bfa9770f5184e21b9d86c800836186b1d250b0
+A
+src/Lv0/Q_23.java,e\5\e56b0afc9dba0eaf31dea3d7cfcff1a31a2995e8
