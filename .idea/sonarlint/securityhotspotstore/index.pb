@@ -11,3 +11,5 @@ A
 src/Lv0/Q_20.java,a\8\a8bfa9770f5184e21b9d86c800836186b1d250b0
 A
 src/Lv0/Q_23.java,e\5\e56b0afc9dba0eaf31dea3d7cfcff1a31a2995e8
+A
+src/Lv0/Q_24.java,7\3\737034353d3818760ce79eefcfdf3f03dd38b983
