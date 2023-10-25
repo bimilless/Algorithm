@@ -1,0 +1,15 @@
+
+t
+java:S1488."^Immediately return this expression instead of assigning it to the temporary variable "answer".(åí¢é
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åØÍè
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜°–ûÿÿÿÿ
+P
+java:S1854 "5Remove this useless assignment to local variable "c".(«¹Âµùÿÿÿÿ
+A
+java:S1481 "&Remove this unused "c" local variable.(«¹Âµùÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(Úœãù
+E	java:S106("+Replace this use of System.out by a logger.(ÑÔÓ¨ùÿÿÿÿ
+J
+java:S1172-"/Remove these unused method parameters "a", "b".(›˜ªõøÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ

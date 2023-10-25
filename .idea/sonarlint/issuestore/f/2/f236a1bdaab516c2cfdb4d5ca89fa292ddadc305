@@ -1,0 +1,16 @@
+
+r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÜÌºûÿÿÿÿ8¸ÓÏ„¶1
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÏÖ8¸ÓÏ„¶1
+>
+java:S1643'"Use a StringBuilder instead.(ŸŞ™ııÿÿÿÿ8‘¿Ö„¶1
+>
+java:S1643)"Use a StringBuilder instead.(…†™œûÿÿÿÿ8¹ÓÏ„¶1
+>
+java:S16439"Use a StringBuilder instead.(ŸŞ™ııÿÿÿÿ8¿Ïá„¶1
+>
+java:S1643;"Use a StringBuilder instead.(…†™œûÿÿÿÿ8¿Ïá„¶1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­ôã‹ûÿÿÿÿ8¹ÓÏ„¶1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜°–ûÿÿÿÿ8¹ÓÏ„¶1
+G	java:S106-"+Replace this use of System.out by a logger.(ô¤„å8‘ëÑ„¶1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ÿ¿Ö„¶1
